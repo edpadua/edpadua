@@ -11,6 +11,11 @@
   
 </div>
 
+<div align='center'>
+
+  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edpadua&layout=compact&langs_count=16&theme=outrun"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I have a bachelor's degree in Computer Science
