@@ -30,5 +30,8 @@
   <a href = "mailto:ed.padua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/edpaduaweb"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
      <a href="https://cursos.alura.com.br/vitrinedev/ed-padua" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
+   <a href="https://discord.com/channels/821791958744957028/894582617020715049" target="_blank"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge" alt="Discord"></a>
+  
+
 
 </div>
