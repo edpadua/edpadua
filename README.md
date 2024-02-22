@@ -19,9 +19,27 @@
   <img height="250rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edpadua&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 
-- 🔭 I have a bachelor's degree in Computer Science
-- 🌱 I’m currently focusing in front end 
-- 🎮 In my free time I enjoy playing the guitar and watching some movies 
+Web Developer ( Brazil / Latam ), currently focusing on the Front End area.
+
+Expertise in:
+
+✔️ Development of layout, templates, interfaces, wireframes and prototypes for websites, web/mobile solutions for User Experience ( UX ) and User Interface ( UI ), applications using mainly tools such as Figma and Adobe Creative Suite ( Photoshop and Illustrator ).
+
+✔️ Development of the front end of websites and web applications, using languages, tools and libraries such as HTML, JavaScript, CSS, ReactJS, Redux, React Query, Next.JS, JQuery, Bootstrap, Tailwind CSS, Styled Components, SASS.
+
+✔️ Development of REST APIs with NodeJS and Express library, MongoDB database.
+
+✔️ Development and maintenance of responsive websites using the Wordpress content management system ( CMS ), using themes that I build from scratch or premium themes such as DIVI and plugins such as Elementor.
+
+✔️ Backend development using languages such as Java, C#, some PHP, using SQL database and tools such as Hibernate, Springboot, Entity Framework.
+
+Always learning new tools and languages
+
+Bachelor in Computer Science graduated from ICT - UNIFESP SJC
+
+Informatic Technician - ETEP 
+
+Portuguese, English and French speaker 
 
 
 ### Get in touch:
