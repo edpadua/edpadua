@@ -19,8 +19,7 @@
   <img height="250rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edpadua&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 
-
-Web Developer ( Brazil / Latam ), currently focusing on the Front End area.
+I'm Eduardo, Web Developer ( Brazil / Latam ), currently focusing on the Front End area.
 
 Expertise in:
 
